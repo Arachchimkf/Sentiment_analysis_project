@@ -1,0 +1,16 @@
+
+Sentiment Analysis Dataset - Binary Classification
+
+About Dataset
+
+Sentiment analysis uses natural language processing and machine learning techniques to 
+analyze the emotional tone or sentiment behind a piece of text. It involves identifying 
+and categorizing opinions expressed in a text as positive, negative, or neutral.
+This dataset contains different kinds of tweets and their sentiment (0 and 1).
+
+
+
+
+https://www.kaggle.com/datasets/dineshpiyasamara/sentiment-analysis-dataset
+
+dineshpiyasamara/sentiment-analysis-dataset
